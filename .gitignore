@@ -1,0 +1,37 @@
+/cmd/
+
+# Go specific
+*.exe
+*.dll
+*.exe~
+*.dll~
+*.exe.*
+*.dll.*
+*.test
+*.prof
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# IntelliJ-specific
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+*.ids
+.idea_modules/
+
+# Operating System files
+.DS_Store
+Thumbs.db
