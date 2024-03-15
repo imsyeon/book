@@ -1,4 +1,5 @@
-/cmd/
+
+/pkg/common/envs/*
 
 # Go specific
 *.exe
